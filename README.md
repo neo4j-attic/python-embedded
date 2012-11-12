@@ -1,6 +1,8 @@
-This isn't the repo you're looking for
-======================================
+Neo4j has moved
+===============
 
-Please see the [neo4j](http://github.com/neo4j/neo4j) repository.
+We've made a [new repository](http://github.com/neo4j/neo4j) for Neo4j.
 
-![Success Kid Meme](http://cdn.memegenerator.net/instances/400x/30056483.jpg "We merged our repos to make our product easier to build")
+Please visit that repository.  Thanks!
+
+![Neo4j Repo Merge Image](http://neo4j.github.com/community/repo_graph.png "We merged our repos to make our product easier to build.")
